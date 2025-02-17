@@ -1,4 +1,4 @@
 [submodule "carbonus"]
 	path = tools/carbonus
 	url = https://github.com/jclermonttt/carbonus.git
-	sallow = true
+	shallow = true
